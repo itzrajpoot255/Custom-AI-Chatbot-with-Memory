@@ -1,5 +1,7 @@
 # Custom AI Chatbot with Memory
 
+Project 1 — DecodeLabs Generative AI Internship (Batch 2026)
+
 A terminal-based chatbot that remembers earlier messages in a conversation, instead of treating every message as a fresh, unrelated question. It also saves the conversation to disk, so it survives closing and reopening the program.
 
 ## Features
